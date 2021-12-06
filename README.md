@@ -11,6 +11,7 @@ I am also the Vice Lead of the Web team in  **Google Developer Student Club (GDS
 
 ### Let's talk <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50">
   - [Linkedin](https://www.linkedin.com/in/ho-yin-tse/)
+  - [E-Mail](mailto:tsehoyin.gordon@gmail.com)
 
 
 [![Gordon's github stats](https://github-readme-stats.vercel.app/api?username=GordonTse0922&show_icons=true&theme=tokyonight)](https://github.com/GordonTse0922)
