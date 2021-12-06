@@ -16,7 +16,7 @@ I am also the Vice Lead of the Web team in  **Google Developer Student Club (GDS
 
 [![Gordon's github stats](https://github-readme-stats.vercel.app/api?username=GordonTse0922&show_icons=true&theme=tokyonight)](https://github.com/GordonTse0922)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GordonTse0922&hide=c%23&theme=tokyonight)](https://github.com/GordonTse0922)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GordonTse0922&exclude_repo=DevOps&hide=c%23&theme=tokyonight)](https://github.com/GordonTse0922)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GordonTse0922&repo=HousePriceCompetition&theme=tokyonight)](https://github.com/GordonTse0922/HousePriceCompetition)
