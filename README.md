@@ -20,6 +20,6 @@ I am also the Vice Lead of the Web team in  **Google Developer Student Club (GDS
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GordonTse0922&repo=HousePriceCompetition&theme=tokyonight)](https://github.com/GordonTse0922/HousePriceCompetition)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GordonTse0922&repo=MonoPolyGame&theme=tokyonight)](https://github.com/GordonTse0922/MonoPolyGame)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GordonTse0922&repo=MonoPolyGame&theme=tokyonight)](https://github.com/GordonTse0922/GDSC-sample-profolio)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GordonTse0922&repo=GordonTse0922.github.io&theme=tokyonight)](https://github.com/GordonTse0922/GordonTse0922.github.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GordonTse0922&repo=dotfiles&theme=tokyonight)](https://github.com/GordonTse0922/dotfiles)
